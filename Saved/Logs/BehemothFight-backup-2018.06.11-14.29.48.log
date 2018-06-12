@@ -1,0 +1,1427 @@
+﻿Log file open, 06/10/18 22:19:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BehemothFight
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2054463634) SRandInit(-2054463634).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.488804
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -3:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  6.269s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-TSJ5NS7 (192.168.25.31:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.028s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.11-01.19.56:996][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.11-01.19.56:996][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.11-01.19.57:194][  0]LogInit: Computer: DESKTOP-TSJ5NS7
+[2018.06.11-01.19.57:194][  0]LogInit: User: Bruno
+[2018.06.11-01.19.57:194][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.06.11-01.19.57:194][  0]LogInit: High frequency timer resolution =2.533197 MHz
+[2018.06.11-01.19.57:195][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.06.11-01.19.57:195][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.11-01.19.57:195][  0]LogMemory: Process Physical Memory: 273.90 MB used, 273.90 MB peak
+[2018.06.11-01.19.57:195][  0]LogMemory: Process Virtual Memory: 265.93 MB used, 265.93 MB peak
+[2018.06.11-01.19.57:195][  0]LogMemory: Physical Memory: 2062.35 MB used,  6045.65 MB free, 8108.00 MB total
+[2018.06.11-01.19.57:195][  0]LogMemory: Virtual Memory: 647.21 MB used,  6045.65 MB free, 134217728.00 MB total
+[2018.06.11-01.19.59:051][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.06.11-01.19.59:051][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.06.11-01.20.00:375][  0]LogStreaming: Display: Took  1.290s to EndInitTextLocalization.
+[2018.06.11-01.20.00:439][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.11-01.20.01:352][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.11-01.20.01:352][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.11-01.20.04:230][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.11-01.20.05:532][  0]LogD3D11RHI:    0. 'NVIDIA GeForce 710M' (Feature Level 11_0)
+[2018.06.11-01.20.05:532][  0]LogD3D11RHI:       1990/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.11-01.20.05:574][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2018.06.11-01.20.05:574][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.06.11-01.20.05:580][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.11-01.20.05:580][  0]LogD3D11RHI:       0/0/4053 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.11-01.20.05:580][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.11-01.20.05:598][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.11-01.20.05:599][  0]LogD3D11RHI:     GPU DeviceId: 0x1140 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.11-01.20.05:599][  0]LogWindows: EnumDisplayDevices:
+[2018.06.11-01.20.05:600][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2018.06.11-01.20.05:600][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.06.11-01.20.05:601][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2018.06.11-01.20.05:601][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.11-01.20.05:602][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce 710M
+[2018.06.11-01.20.05:602][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.11-01.20.05:602][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.11-01.20.05:602][  0]LogRHI: Texture pool is 1393 MB (70% of 1990 MB)
+[2018.06.11-01.20.05:709][  0]LogD3D11RHI: Display: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2018.06.11-01.20.05:735][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.11-01.20.05:735][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.11-01.20.05:735][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.11-01.20.06:123][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 7)
+[2018.06.11-01.20.06:263][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Intermediate/Shaders/WorkingDirectory/3596/).
+[2018.06.11-01.20.06:270][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bruno/AppData/Local/Temp/UnrealShaderWorkingDir/7E354CF04C623BD963124CB22E8274A0/'.
+[2018.06.11-01.20.13:746][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.11-01.20.13:798][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.11-01.20.13:820][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.11-01.20.13:835][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.11-01.20.13:885][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.11-01.20.13:900][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.11-01.20.13:915][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.11-01.20.13:930][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.11-01.20.13:938][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.11-01.20.13:951][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.11-01.20.13:966][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.11-01.20.13:979][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.11-01.20.13:992][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.11-01.20.14:006][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.11-01.20.14:025][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.11-01.20.14:067][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.11-01.20.14:067][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.11-01.20.14:122][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.11-01.20.14:123][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.11-01.20.14:508][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.11-01.20.14:540][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.11-01.20.14:556][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.11-01.20.14:575][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.11-01.20.14:589][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.11-01.20.14:617][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.11-01.20.14:617][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.11-01.20.16:448][  0]LogXGEController: Cleaning working directory: C:/Users/Bruno/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.11-01.20.16:449][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.11-01.20.16:492][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.11-01.20.16:492][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.11-01.20.20:224][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.11-01.20.21:352][  0]LogDerivedDataCache: Loaded boot cache 1.13s 74MB C:/Users/Bruno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.11-01.20.21:352][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bruno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.11-01.20.21:352][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.11-01.20.21:352][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.11-01.20.21:353][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.11-01.20.21:353][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.11-01.20.21:469][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.11-01.20.21:499][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bruno/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.11-01.20.21:499][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.06.11-01.20.21:499][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.06.11-01.20.21:569][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.11-01.20.21:638][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.11-01.20.21:800][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.11-01.20.21:800][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.11-01.20.26:825][  0]LogAssetRegistry: FAssetRegistry took 0.0440 seconds to start up
+[2018.06.11-01.20.35:920][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.11-01.20.42:708][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.11-01.20.42:847][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.11-01.20.42:885][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.11-01.20.42:895][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.11-01.20.42:895][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.11-01.20.42:895][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.11-01.20.43:954][  0]LogNetVersion: BehemothFight , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2813664442)
+[2018.06.11-01.21.00:280][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.130389 seconds
+[2018.06.11-01.21.00:335][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.06.11-01.21.00:335][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.06.11-01.21.00:335][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.11-01.21.26:406][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.11-01.21.26:454][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.11-01.21.27:407][  0]SourceControl: Source control is disabled
+[2018.06.11-01.21.27:408][  0]SourceControl: Source control is disabled
+[2018.06.11-01.21.27:457][  0]SourceControl: Source control is disabled
+[2018.06.11-01.21.27:491][  0]SourceControl: Source control is disabled
+[2018.06.11-01.21.28:542][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.11-01.21.28:768][  0]LogOcInput: OculusInput pre-init called
+[2018.06.11-01.21.29:295][  0]LogEngine: Initializing Engine...
+[2018.06.11-01.21.29:309][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.06.11-01.21.29:341][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.11-01.21.29:341][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.11-01.21.30:766][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.11-01.21.31:025][  0]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.11-01.21.31:037][  0]LogInit: FAudioDevice initialized.
+[2018.06.11-01.21.31:353][  0]LogDerivedDataCache: Saved boot cache 0.32s 74MB C:/Users/Bruno/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.11-01.21.31:528][  0]LogInit: Texture streaming: Enabled
+[2018.06.11-01.21.31:644][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.11-01.21.31:644][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={341E021C-4B4F-77AB-1B9A-DC861FFDC856}
+[2018.06.11-01.21.34:413][  0]LogInit: Transaction tracking system initialized
+[2018.06.11-01.21.36:156][  0]BlueprintLog: New page: Editor Load
+[2018.06.11-01.21.41:066][  0]LocalizationService: Localization service is disabled
+[2018.06.11-01.21.44:002][  0]LogConsoleResponse: Display: 
+[2018.06.11-01.21.51:454][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/' took 0.06s
+[2018.06.11-01.21.51:454][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.11-01.21.51:454][  0]LogCook: Display: Mobile HDR setting 1
+[2018.06.11-01.21.51:454][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.11-01.21.51:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.11-01.21.51:455][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.11-01.22.00:382][  0]SourceControl: Source control is disabled
+[2018.06.11-01.22.00:580][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.11-01.22.00:821][  0]LightingResults: New page: Lighting Build
+[2018.06.11-01.22.01:409][  0]MapCheck: New page: Map Check
+[2018.06.11-01.22.01:409][  0]LightingResults: New page: Lighting Build
+[2018.06.11-01.22.06:494][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902c7fc800, Size=864, Default__Adena_C Function /Game/Players/Adena/Adena.Adena_C:ExecuteUbergraph_Adena
+[2018.06.11-01.22.09:938][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902c14abe0, Size=224, Default__Poder1_C Function /Game/Players/Adena/Poderes/Poder1.Poder1_C:ExecuteUbergraph_Poder1
+[2018.06.11-01.22.11:755][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902c109600, Size=1088, Default__Margery_C Function /Game/Players/Margery/Margery.Margery_C:ExecuteUbergraph_Margery
+[2018.06.11-01.22.12:387][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019037b05620, Size=144, Default__AdenaAnimBlueprint_C Function /Game/Players/Adena/AdenaAnimBlueprint.AdenaAnimBlueprint_C:ExecuteUbergraph_AdenaAnimBlueprint
+[2018.06.11-01.22.12:389][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001902c0d9600, Size=440, Default__Poder3_C Function /Game/Players/Adena/Poderes/Poder3.Poder3_C:ExecuteUbergraph_Poder3
+[2018.06.11-01.22.12:700][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019037ac3a60, Size=72, Default__MargeryAnimBlueprint_C Function /Game/Players/Margery/MargeryAnimBlueprint.MargeryAnimBlueprint_C:ExecuteUbergraph_MargeryAnimBlueprint
+[2018.06.11-01.22.16:808][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001903151d6e0, Size=224, Default__Poder4_C Function /Game/Players/Margery/Poderes/Poder4.Poder4_C:ExecuteUbergraph_Poder4
+[2018.06.11-01.22.26:553][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019037b05620, Size=144
+[2018.06.11-01.22.26:553][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019031768180, Size=144, Default__AdenaAnimBlueprint_C Function /Engine/Transient.REINST_AdenaAnimBlueprint_C_0:ExecuteUbergraph_AdenaAnimBlueprint
+[2018.06.11-01.22.26:555][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019037ac3a60, Size=72
+[2018.06.11-01.22.26:555][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019030cf2570, Size=72, Default__MargeryAnimBlueprint_C Function /Engine/Transient.REINST_MargeryAnimBlueprint_C_1:ExecuteUbergraph_MargeryAnimBlueprint
+[2018.06.11-01.22.26:556][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902c14abe0, Size=224
+[2018.06.11-01.22.26:556][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001903172b9e0, Size=224, Default__Poder1_C Function /Engine/Transient.REINST_Poder1_C_4:ExecuteUbergraph_Poder1
+[2018.06.11-01.22.26:556][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902c0d9600, Size=440
+[2018.06.11-01.22.26:556][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019031861b40, Size=440, Default__Poder3_C Function /Engine/Transient.REINST_Poder3_C_5:ExecuteUbergraph_Poder3
+[2018.06.11-01.22.26:557][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001903151d6e0, Size=224
+[2018.06.11-01.22.26:557][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001903172ada0, Size=224, Default__Poder4_C Function /Engine/Transient.REINST_Poder4_C_6:ExecuteUbergraph_Poder4
+[2018.06.11-01.22.26:558][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902c7fc800, Size=864
+[2018.06.11-01.22.26:558][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019031838480, Size=864, Default__Adena_C Function /Engine/Transient.REINST_Adena_C_7:ExecuteUbergraph_Adena
+[2018.06.11-01.22.26:559][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001902c109600, Size=1088
+[2018.06.11-01.22.26:559][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019031703900, Size=1088, Default__Margery_C Function /Engine/Transient.REINST_Margery_C_8:ExecuteUbergraph_Margery
+[2018.06.11-01.22.27:124][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001905228bd80, Size=144, Default__AdenaAnimBlueprint_C Function /Game/Players/Adena/AdenaAnimBlueprint.AdenaAnimBlueprint_C:ExecuteUbergraph_AdenaAnimBlueprint
+[2018.06.11-01.22.27:162][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001905228d3a0, Size=72, Default__MargeryAnimBlueprint_C Function /Game/Players/Margery/MargeryAnimBlueprint.MargeryAnimBlueprint_C:ExecuteUbergraph_MargeryAnimBlueprint
+[2018.06.11-01.22.27:163][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001905224fd60, Size=224, Default__Poder1_C Function /Game/Players/Adena/Poderes/Poder1.Poder1_C:ExecuteUbergraph_Poder1
+[2018.06.11-01.22.27:164][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190522c25c0, Size=440, Default__Poder3_C Function /Game/Players/Adena/Poderes/Poder3.Poder3_C:ExecuteUbergraph_Poder3
+[2018.06.11-01.22.27:165][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001905224fba0, Size=224, Default__Poder4_C Function /Game/Players/Margery/Poderes/Poder4.Poder4_C:ExecuteUbergraph_Poder4
+[2018.06.11-01.22.27:169][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019052268800, Size=864, Default__Adena_C Function /Game/Players/Adena/Adena.Adena_C:ExecuteUbergraph_Adena
+[2018.06.11-01.22.27:212][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190521d4100, Size=1088, Default__Margery_C Function /Game/Players/Margery/Margery.Margery_C:ExecuteUbergraph_Margery
+[2018.06.11-01.22.34:659][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190314c4140, Size=16, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.06.11-01.22.34:661][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190314c4140, Size=16
+[2018.06.11-01.22.34:661][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190314c4140, Size=16, Default__SideScrollerExampleMap_C Function /Engine/Transient.REINST_SideScrollerExampleMap_C_23:ExecuteUbergraph_SideScrollerExampleMap
+[2018.06.11-01.22.34:662][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190314c4580, Size=16, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.06.11-01.22.52:860][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [106.629288ms] /Game/Players/Adena/AdenaIdle.AdenaIdle
+[2018.06.11-01.22.53:462][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [50.431133ms] /Game/Players/Margery/Animacoes/Backflip.Backflip
+[2018.06.11-01.22.55:939][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.06.11-01.22.58:295][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.11-01.22.58:491][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019031838480, Size=864
+[2018.06.11-01.22.58:491][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001903172b9e0, Size=224
+[2018.06.11-01.22.58:491][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019031703900, Size=1088
+[2018.06.11-01.22.58:492][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019031768180, Size=144
+[2018.06.11-01.22.58:508][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019031861b40, Size=440
+[2018.06.11-01.22.58:508][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019030cf2570, Size=72
+[2018.06.11-01.22.58:508][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001903172ada0, Size=224
+[2018.06.11-01.22.58:509][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190314c4140, Size=16
+[2018.06.11-01.22.58:606][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.11-01.22.58:732][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 125.892ms to complete.
+[2018.06.11-01.22.58:732][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 58.236
+[2018.06.11-01.23.03:667][  0]LogCollectionManager: Loaded 0 collections in 0.013359 seconds
+[2018.06.11-01.23.03:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Collections/' took 0.01s
+[2018.06.11-01.23.03:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Developers/Bruno/Collections/' took 0.01s
+[2018.06.11-01.23.03:817][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Collections/' took 0.01s
+[2018.06.11-01.23.03:817][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.11-01.23.03:833][  0]LogContentBrowser: Native class hierarchy populated in 0.0146 seconds. Added 2452 classes and 558 folders.
+[2018.06.11-01.23.03:887][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.11-01.23.13:295][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.06.11-01.23.13:743][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.06.11-01.23.16:614][  0]LogSlate: Took 0.045616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.11-01.23.16:731][  0]LogSlate: Took 0.114975 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.11-01.23.16:824][  0]LogSlate: Took 0.024852 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.11-01.23.18:594][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2018.06.11-01.23.24:113][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2018.06.11-01.23.24:114][  0]LogLoad: (Engine Initialization) Total time: 243.62 seconds
+[2018.06.11-01.23.24:114][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.11-01.23.24:591][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.11-01.23.27:641][  3]LogAssetRegistry: Asset discovery search completed in 180.8393 seconds
+[2018.06.11-01.23.27:657][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.06.11-01.23.27:658][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000124 seconds (updated 0 objects)
+[2018.06.11-01.23.27:747][  3]LogSlate: Took 0.029527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.11-01.23.39:485][149]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.23.43:857][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.23.44:012][320]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.11-01.23.44:160][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.11-01.23.44:161][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.06.11-01.23.44:199][320]PIE: New page: PIE session: SideScrollerExampleMap (Jun 10, 2018, 7:23:44 PM)
+[2018.06.11-01.23.44:199][320]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.06.11-01.23.44:273][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.073924s)
+[2018.06.11-01.23.44:274][320]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.06.11-01.23.44:274][320]LogPlayLevel: PIE: World Init took: (0.001430s)
+[2018.06.11-01.23.44:274][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.075766s)
+[2018.06.11-01.23.44:311][320]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.11-01.23.44:330][320]LogInit: FAudioDevice initialized.
+[2018.06.11-01.23.44:449][320]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.06.11-01.23.44:485][320]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2018.06.10-22.23.44
+[2018.06.11-01.23.44:532][320]LogWorld: Bringing up level for play took: 0.057060
+[2018.06.11-01.23.44:606][320]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.06.11-01.23.44:657][320]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.148
+[2018.06.11-01.23.44:665][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.11-01.23.44:771][320]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2018.06.11-01.24.10:104][821]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Players/Adena/Animacoes/Power_Up_Composite.Power_Up_Composite'
+[2018.06.11-01.24.37:387][372]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.11-01.24.37:430][372]LogSlate: Window 'BehemothFight Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.11-01.24.37:502][372]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.11-01.31.13:066][285]LogEditorViewport: Clicking on Actor (LMB): Adena_C (Adena)
+[2018.06.11-01.31.16:557][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.31.18:596][439]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.06.11-01.31.19:110][439]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019054d33b20, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.11-01.31.19:111][439]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019054d33b18, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.06.11-01.31.20:425][439]LogSlate: Took 0.015745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.11-01.31.20:888][440]LogSlate: Took 0.019563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.11-01.33.35:960][799]LogSlate: Window 'Margery' being destroyed
+[2018.06.11-01.40.33:539][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Adena/Adena" FILE="../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Adena.uasset" SILENT=true
+[2018.06.11-01.40.34:232][199]LogSavePackage: Save=181.39ms
+[2018.06.11-01.40.34:232][199]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Adena8795ED074198E6ED952D3DB617E7F078.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Adena.uasset'
+[2018.06.11-01.40.34:263][199]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Adena.uasset
+[2018.06.11-01.40.39:803][528]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.06.11-01.40.39:835][528]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.11-01.40.39:836][528]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.06.11-01.40.39:907][528]LogPlayLevel: [PlayLevel] Compiling Adena before play...
+[2018.06.11-01.40.39:941][528]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019052268800, Size=864
+[2018.06.11-01.40.39:941][528]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019081479980, Size=864, Default__Adena_C Function /Engine/Transient.REINST_Adena_C_44:ExecuteUbergraph_Adena
+[2018.06.11-01.40.39:957][528]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019082a4c800, Size=904, Default__Adena_C Function /Game/Players/Adena/Adena.Adena_C:ExecuteUbergraph_Adena
+[2018.06.11-01.40.40:575][528]LogPlayLevel: PlayLevel: Blueprint regeneration took 739 ms (1 blueprints)
+[2018.06.11-01.40.40:575][528]PIE: New page: PIE session: SideScrollerExampleMap (Jun 10, 2018, 7:40:40 PM)
+[2018.06.11-01.40.40:575][528]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.06.11-01.40.40:594][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019442s)
+[2018.06.11-01.40.40:596][528]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.06.11-01.40.40:596][528]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2018.06.11-01.40.40:596][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.021215s)
+[2018.06.11-01.40.40:631][528]LogInit: XAudio2 using 'Alto-falantes (Realtek High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.11-01.40.40:641][528]LogInit: FAudioDevice initialized.
+[2018.06.11-01.40.40:678][528]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.06.11-01.40.40:681][528]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2018.06.10-22.40.40
+[2018.06.11-01.40.40:682][528]LogWorld: Bringing up level for play took: 0.003897
+[2018.06.11-01.40.40:686][528]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0.119
+[2018.06.11-01.40.40:687][528]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.11-01.40.48:715][683]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/Players/Adena/Animacoes/Power_Up_Composite.Power_Up_Composite'
+[2018.06.11-01.41.02:185][953]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.11-01.41.02:215][953]LogSlate: Window 'BehemothFight Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.06.11-01.41.02:272][953]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.06.11-01.41.07:036][180]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0003 seconds. Added 2 classes and 2 folders.
+[2018.06.11-01.41.29:589][415]LogCascade: Quitting Cascade. FXSystem=0x00000190AC5B98A0
+[2018.06.11-01.41.53:352][701]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.42.03:017][280]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-01.42.04:568][367]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-01.42.07:452][534]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.42.09:823][669]LogCascade: Non-seeded module ParticleModuleBeamSource
+[2018.06.11-01.42.09:829][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.42.13:139][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.42.20:795][303]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.42.43:533][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.42.51:386][ 85]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.11-01.43.00:638][ 85]LogSlate: Window 'Save Asset As' being destroyed
+[2018.06.11-01.43.00:769][ 85]LogSavePackage: Save=32.27ms
+[2018.06.11-01.43.00:769][ 85]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_locationBackup9148CA2A43241A53EE23B6AFF0EA11BD.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_locationBackup.uasset'
+[2018.06.11-01.43.00:773][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_locationBackup.uasset
+[2018.06.11-01.43.00:862][ 85]LogCascade: Quitting Cascade. FXSystem=0x000001900592F420
+[2018.06.11-01.44.29:721][360]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.44.36:696][768]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.44.37:334][806]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.44.38:602][881]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.44.41:468][ 47]LogCascade: Non-seeded module ParticleModuleBeamSource
+[2018.06.11-01.44.41:474][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.44.44:522][220]LogCascade: Non-seeded module ParticleModuleBeamSource
+[2018.06.11-01.44.44:526][220]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.44.45:520][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.45.59:715][324]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190314c4580, Size=16
+[2018.06.11-01.45.59:715][324]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909512c7d0, Size=16, Default__SideScrollerExampleMap_C Function /Engine/Transient.REINST_SideScrollerExampleMap_C_48:ExecuteUbergraph_SideScrollerExampleMap
+[2018.06.11-01.45.59:717][324]LogUObjectGlobals: Created PersistentFrame Addr=0x000001909512df50, Size=16, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.06.11-01.45.59:862][324]LogSavePackage: Save=152.07ms
+[2018.06.11-01.45.59:862][324]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/SideScrollerExampleMap_Auto10C32F7F543F3101463DA4294FF5C648B.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2018.06.11-01.45.59:864][324]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap
+[2018.06.11-01.45.59:867][324]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.306
+[2018.06.11-01.45.59:867][324]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.306
+[2018.06.11-01.45.59:906][324]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Players/Adena/Adena] ([1] browsable assets)...
+[2018.06.11-01.45.59:944][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Players/Adena/Adena.Adena]
+[2018.06.11-01.45.59:944][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Players/Adena/Adena]
+[2018.06.11-01.46.00:080][324]LogSavePackage: Save=118.30ms
+[2018.06.11-01.46.00:080][324]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Adena_Auto14A72CA644A81B9E030B6039F1F84E8D2.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Autosaves/Game/Players/Adena/Adena_Auto1.uasset'
+[2018.06.11-01.46.00:089][324]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Autosaves/Game/Players/Adena/Adena_Auto1.uasset
+[2018.06.11-01.46.00:090][324]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Players/Adena/Poderes/P_emitter_initial_location1] ([1] browsable assets)...
+[2018.06.11-01.46.00:099][324]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1]
+[2018.06.11-01.46.00:099][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Players/Adena/Poderes/P_emitter_initial_location1]
+[2018.06.11-01.46.00:148][324]LogSavePackage: Save=31.22ms
+[2018.06.11-01.46.00:148][324]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_location1_Auto96FDECDB492B4448D8871C946831F237.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Autosaves/Game/Players/Adena/Poderes/P_emitter_initial_location1_Auto1.uasset'
+[2018.06.11-01.46.00:170][324]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Autosaves/Game/Players/Adena/Poderes/P_emitter_initial_location1_Auto1.uasset
+[2018.06.11-01.46.00:170][324]LogFileHelpers: Auto-saving content packages took 0.302
+[2018.06.11-01.50.12:625][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.50.15:846][363]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.50.24:081][848]LogCascade: Non-seeded module ParticleModuleLocationEmitter
+[2018.06.11-01.50.24:086][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.50.25:412][924]LogCascade: Non-seeded module ParticleModuleTypeDataGpu
+[2018.06.11-01.50.31:077][250]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.50.33:571][386]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.50.43:163][935]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.51.43:380][541]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.51.48:872][541]LogSlate: Window 'Message' being destroyed
+[2018.06.11-01.51.50:370][625]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.51.54:102][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.51.55:992][846]LogSlate: Window 'Message' being destroyed
+[2018.06.11-01.52.04:192][332]LogCascade: Non-seeded module ParticleModuleAttractorPoint
+[2018.06.11-01.52.04:198][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.52.05:558][410]LogCascade: Non-seeded module ParticleModuleMeshMaterial
+[2018.06.11-01.52.10:105][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.53.06:412][460]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.53.11:987][771]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.53.14:095][879]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.53.27:451][489]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.53.46:852][610]LogCascade: Non-seeded module ParticleModuleTypeDataMesh
+[2018.06.11-01.53.46:857][610]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.53.51:197][790]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.54.01:913][790]LogSlate: Window 'Message' being destroyed
+[2018.06.11-01.54.01:918][790]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.20:864][921]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.20:865][921]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.20:881][922]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.20:883][922]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.20:944][923]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.20:947][923]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.20:949][923]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.20:952][923]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.20:954][923]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.20:956][923]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:063][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:064][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:067][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:068][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:070][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:071][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:073][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:075][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:078][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:080][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:082][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:084][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:087][924]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:236][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:237][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:238][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:239][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:241][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:242][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:244][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:246][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:247][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:248][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:250][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:251][925]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:342][926]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:693][934]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:709][935]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:711][935]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:764][936]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:766][936]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:767][936]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:768][936]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:770][936]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:771][936]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:773][936]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:774][936]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.21:883][937]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.22:300][946]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.22:432][949]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.22:531][951]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.22:652][953]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.22:653][953]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.22:691][954]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.22:821][955]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.22:825][955]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.23:070][958]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.25:968][127]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.25:970][127]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.25:985][128]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.25:987][128]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:042][129]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:043][129]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:045][129]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:046][129]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:048][129]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:049][129]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:051][129]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:052][129]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:160][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:162][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:165][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:167][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:168][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:170][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:171][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:173][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:175][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:177][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:178][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:180][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:182][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:183][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:185][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:188][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:189][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:335][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:337][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:339][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:341][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:343][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:345][131]LogParticles: Warning: MaxCount =  529 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:345][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:347][131]LogParticles: Warning: MaxCount =  635 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:347][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:349][131]LogParticles: Warning: MaxCount =  761 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:349][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:350][131]LogParticles: Warning: MaxCount =  913 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:351][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:353][131]LogParticles: Warning: MaxCount = 1069 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:353][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:355][131]LogParticles: Warning: MaxCount = 1263 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:355][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:357][131]LogParticles: Warning: MaxCount = 1479 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:357][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:358][131]LogParticles: Warning: MaxCount = 1732 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:358][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:360][131]LogParticles: Warning: MaxCount = 2028 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:360][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:362][131]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:362][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:363][131]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:363][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:365][131]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:365][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:366][131]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:366][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:368][131]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:368][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:370][131]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:370][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:372][131]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:372][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:374][131]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:374][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:377][131]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:377][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:379][131]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:379][131]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:426][132]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:426][132]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:427][132]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:427][132]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:429][132]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:429][132]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:430][132]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:430][132]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:431][132]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:431][132]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:433][132]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:433][132]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:434][132]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:434][132]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:597][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:597][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:599][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:599][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:600][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:600][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:602][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:602][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:605][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:605][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:606][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:607][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:608][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:608][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:610][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:610][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:612][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:612][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:613][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:613][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:615][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:615][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:617][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:617][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:619][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:619][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:621][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:621][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:623][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:623][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:624][133]LogParticles: Warning: MaxCount = 2050 for Emitter ParticleSpriteEmitter_8 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.26:624][133]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.29:495][294]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.54.35:914][674]LogCascade: Non-seeded module ParticleModuleAttractorPoint
+[2018.06.11-01.54.47:325][343]LogCascade: Non-seeded module ParticleModuleBeamSource
+[2018.06.11-01.54.49:485][466]LogCascade: Non-seeded module ParticleModuleTypeDataBeam2
+[2018.06.11-01.56.20:396][996]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.56.20:477][996]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909512c7d0, Size=16
+[2018.06.11-01.56.20:478][996]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.035
+[2018.06.11-01.56.20:480][996]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup] ([1] browsable assets)...
+[2018.06.11-01.56.20:492][996]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup]
+[2018.06.11-01.56.20:492][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup]
+[2018.06.11-01.56.20:580][996]LogSavePackage: Save=52.34ms
+[2018.06.11-01.56.20:580][996]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_locationBackup0E278B0D463FAF231F0F21AAB8532CEC.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Autosaves/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup_Auto2.uasset'
+[2018.06.11-01.56.20:582][996]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Autosaves/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup_Auto2.uasset
+[2018.06.11-01.56.20:582][996]LogFileHelpers: Auto-saving content packages took 0.103
+[2018.06.11-01.56.22:959][129]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.56.38:578][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.56.40:441][949]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.56.42:574][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.56.44:804][206]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.56.47:319][352]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.56.48:550][426]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.57.03:296][953]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.57.04:958][ 53]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.57.28:303][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.57.40:375][622]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.57.53:234][387]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.58.20:246][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.58.26:080][472]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.11-01.58.51:119][610]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationBackup.P_emitter_initial_locationBackup)
+[2018.06.11-01.59.00:446][164]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-01.59.18:979][225]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.59.36:030][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.59.41:756][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-01.59.46:512][552]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.00.06:662][753]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.00.13:381][146]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.00.18:802][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.00.49:593][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.01.03:310][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.01.05:370][198]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.01.09:779][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.01.16:826][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.01.25:801][366]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.01.27:518][469]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.01.32:937][784]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.01.57:014][469]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.01.58:442][555]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.01.59:448][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.02.01:967][757]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.02.13:240][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.02.17:344][635]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.02.28:753][155]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.02.38:319][542]LogCascade: Non-seeded module ParticleModuleTypeDataMesh
+[2018.06.11-02.02.44:974][916]LogCascade: Non-seeded module ParticleModuleTypeDataMesh
+[2018.06.11-02.02.44:980][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.03.14:439][564]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.04.05:494][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.04.17:272][263]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.04.21:731][516]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.04.45:159][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.04.55:564][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.06.11:648][252]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.06.51:388][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.07.00:761][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.07.05:173][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.07.17:854][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.07.28:542][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.07.38:478][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.07.55:572][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.08.16:693][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.08.25:991][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.09.03:236][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.09.07:848][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.09.12:849][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.09.30:018][501]LogCascade: Non-seeded module ParticleModuleSize
+[2018.06.11-02.09.30:027][501]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.09.34:240][744]LogCascade: Non-seeded module ParticleModuleVelocity
+[2018.06.11-02.09.34:244][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.09.37:026][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.09.59:404][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.10.03:578][397]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.10.22:497][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.10.26:918][751]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.10.32:669][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.10.36:706][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.10.44:010][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.10.47:824][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.10.52:636][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.10.56:115][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.11.03:177][827]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.11.06:772][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.11.36:328][779]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.11.41:600][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.11.47:870][444]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.11.56:737][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.12.06:114][502]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.12.09:791][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.12.19:172][257]LogCascade: Non-seeded module ParticleModuleMeshMaterial
+[2018.06.11-02.12.19:177][257]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.12.22:309][431]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.13.16:554][615]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.13.21:752][903]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.13.39:014][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.14.26:239][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.14.30:882][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.14.37:646][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.14.45:278][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.15.07:454][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.15.13:910][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.15.17:817][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.15.24:352][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.15.28:671][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.15.36:704][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.15.46:133][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.15.49:816][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.16.02:114][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.16.15:515][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.16.55:651][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.16.59:234][642]LogCascade: Non-seeded module ParticleModuleAttractorPoint
+[2018.06.11-02.16.59:240][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.17.01:511][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.17.10:553][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.17.19:154][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.17.27:138][258]LogEditorTransaction: Undo Edit Range
+[2018.06.11-02.17.27:943][258]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.804 s
+[2018.06.11-02.17.27:943][258]LogOutputDevice: Error: === Handled ensure: ===
+[2018.06.11-02.17.27:943][258]LogOutputDevice: Error: 
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2100]
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: 
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: Stack: 
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x000000007DB1B706 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x000000007D87AE3A UE4Editor-Core.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x000000007D88ECD6 UE4Editor-Core.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x000000007B395E98 UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x0000000078B59F15 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x0000000078B82062 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x0000000078B69329 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x0000000078B69C5B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x0000000078BD019B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x0000000078C11F9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x00000000591A0C45 UE4Editor-Cascade.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x00000000591920E7 UE4Editor-Cascade.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x000000007BC58FCD UE4Editor-Engine.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x000000007A4A5417 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.11-02.17.27:944][258]LogOutputDevice: Error: [Callstack] 0x000000007A244D61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000007A216D2D UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000007A2188F6 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000007A2963CA UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000007A2899C8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000008A9DE3DA UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000008A9D1B78 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000008A9E052C UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000008A9CD679 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x00000000A8EE1C24 USER32.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x00000000A8EE156C USER32.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000008A9E1666 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000009A945475 UE4Editor.exe!UnknownFunction []
+[2018.06.11-02.17.27:945][258]LogOutputDevice: Error: [Callstack] 0x000000009A956BD0 UE4Editor.exe!UnknownFunction []
+[2018.06.11-02.17.27:946][258]LogOutputDevice: Error: [Callstack] 0x000000009A956C4A UE4Editor.exe!UnknownFunction []
+[2018.06.11-02.17.27:946][258]LogOutputDevice: Error: [Callstack] 0x000000009A964177 UE4Editor.exe!UnknownFunction []
+[2018.06.11-02.17.27:946][258]LogOutputDevice: Error: [Callstack] 0x000000009A965B87 UE4Editor.exe!UnknownFunction []
+[2018.06.11-02.17.27:946][258]LogOutputDevice: Error: [Callstack] 0x00000000A9348364 KERNEL32.DLL!UnknownFunction []
+[2018.06.11-02.17.27:946][258]LogOutputDevice: Error: [Callstack] 0x00000000A9EC70B1 ntdll.dll!UnknownFunction []
+[2018.06.11-02.17.27:946][258]LogOutputDevice: Error: 
+[2018.06.11-02.17.27:953][258]LogStats:                SubmitErrorReport -  0.000 s
+[2018.06.11-02.17.29:533][258]LogStats:                    SendNewReport -  1.580 s
+[2018.06.11-02.17.29:533][258]LogStats:             FDebug::EnsureFailed -  2.393 s
+[2018.06.11-02.17.29:558][258]LogEditorTransaction: Undo Edit Position
+[2018.06.11-02.17.29:587][258]LogEditorTransaction: Undo Create New Module
+[2018.06.11-02.17.29:609][258]LogEditorTransaction: Undo Edit Module Editor Color
+[2018.06.11-02.17.32:016][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.17.41:471][619]LogSlate: Window 'Save Content' being destroyed
+[2018.06.11-02.17.41:490][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Players/Adena/Adena" FILE="../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Adena.uasset" SILENT=true
+[2018.06.11-02.17.41:632][619]LogSavePackage: Save=108.71ms
+[2018.06.11-02.17.41:632][619]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Adena9DBCB04F4EBAD5061FF0B0974DD73A0E.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Adena.uasset'
+[2018.06.11-02.17.41:641][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Adena.uasset
+[2018.06.11-02.17.41:735][619]LogSavePackage: Save=57.78ms
+[2018.06.11-02.17.41:735][619]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_location1DD7CED1B42459DA0CD5AF581C29E8490.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_location1.uasset'
+[2018.06.11-02.17.41:743][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_location1.uasset
+[2018.06.11-02.17.41:817][619]LogSavePackage: Save=35.81ms
+[2018.06.11-02.17.41:817][619]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_locationBackupA750E826461DF565943848A55F4D9B7A.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_locationBackup.uasset'
+[2018.06.11-02.17.41:824][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_locationBackup.uasset
+[2018.06.11-02.17.41:972][619]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001909512df50, Size=16
+[2018.06.11-02.17.41:972][619]LogUObjectGlobals: Created PersistentFrame Addr=0x0000019094332be0, Size=16, Default__SideScrollerExampleMap_C Function /Engine/Transient.REINST_SideScrollerExampleMap_C_52:ExecuteUbergraph_SideScrollerExampleMap
+[2018.06.11-02.17.41:974][619]LogUObjectGlobals: Created PersistentFrame Addr=0x00000190943338f0, Size=16, Default__SideScrollerExampleMap_C Function /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C:ExecuteUbergraph_SideScrollerExampleMap
+[2018.06.11-02.17.42:123][619]LogSavePackage: Save=154.25ms
+[2018.06.11-02.17.42:123][619]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/SideScrollerExampleMapB6DA85214114660B67F3CF8F07B6E2FA.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.06.11-02.17.42:127][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2018.06.11-02.17.42:168][619]LogFileHelpers: Saving map 'SideScrollerExampleMap' took 0.339
+[2018.06.11-02.18.09:343][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.18.12:611][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.18.18:111][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.18.22:080][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.18.30:379][371]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.18.33:746][564]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.18.40:517][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.18.58:259][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.19.02:894][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.19.37:720][231]LogCascade: Non-seeded module ParticleModuleTypeDataBeam2
+[2018.06.11-02.19.37:725][231]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.19.43:807][582]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.19.48:023][827]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.19.52:546][ 90]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.20.25:802][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.20.33:715][471]LogCascade: Quitting Cascade. FXSystem=0x00000190BCB45C60
+[2018.06.11-02.20.44:633][107]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.20.45:994][189]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.20.48:555][337]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.20.52:937][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.21.11:927][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.21.13:147][786]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DistributionVectorConstant /Game/ExampleContent/Effects/ParticleSystems/P_electricity_arc.P_electricity_arc:ParticleModuleBeamSource_0.DistributionSource) from referencer (ParticleModuleBeamSource /Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1:ParticleModuleBeamSource_0).  Import failed...
+[2018.06.11-02.21.26:685][593]LogProperty: Warning: Illegal TEXT reference to a private object in external package (DistributionVectorConstant /Game/ExampleContent/Effects/ParticleSystems/P_electricity_arc.P_electricity_arc:ParticleModuleBeamSource_0.DistributionSource) from referencer (ParticleModuleBeamSource /Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1:ParticleModuleBeamSource_0).  Import failed...
+[2018.06.11-02.21.28:376][689]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.06.11-02.22.34:467][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.22.37:362][797]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.23.32:337][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.23.39:504][499]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.23.39:701][505]LogSavePackage: Save=41.11ms
+[2018.06.11-02.23.39:701][505]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_location12A2440224DBF22E30CFA89BC26D1E138.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_location1.uasset'
+[2018.06.11-02.23.39:705][505]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_location1.uasset
+[2018.06.11-02.23.41:900][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.23.43:711][734]LogSavePackage: Save=47.98ms
+[2018.06.11-02.23.43:711][734]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_location184811BEC42875CE1ADD8C98F5B2FFF0A.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_location1.uasset'
+[2018.06.11-02.23.43:717][734]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_location1.uasset
+[2018.06.11-02.23.46:909][917]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.23.56:609][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.24.13:641][360]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.24.13:644][360]LogMaterial: Warning: Material /Engine/VREditor/LaserPointer/LaserPointerMaterial.LaserPointerMaterial needed to have new flag set bUsedWithBeamTrails !
+[2018.06.11-02.24.13:646][360]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.06.11-02.24.13:747][360]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.11-02.24.13:748][360]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.11-02.24.13:748][360]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.11-02.24.13:748][360]LogMaterial: Missing cached shader map for material LaserPointerMaterial, compiling. 
+[2018.06.11-02.24.24:554][409]LogShaderCompilers: Warning: ShaderCompileWorker terminated unexpectedly!  Falling back to directly compiling which will be very slow.  Thread 2.
+[2018.06.11-02.24.30:760][541]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.06.11-02.24.30:760][541]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.06.11-02.24.30:760][541]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.11-02.24.36:388][829]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.11-02.24.36:388][829]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.11-02.24.36:388][829]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.11-02.24.41:438][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.24.48:365][446]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.25.02:512][ 79]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.25.02:515][ 79]LogMaterial: Warning: Material /Engine/VREditor/TransformGizmo/Xray.Xray needed to have new flag set bUsedWithBeamTrails !
+[2018.06.11-02.25.02:517][ 79]LogMaterial: Missing cached shader map for material Xray, compiling. 
+[2018.06.11-02.25.02:580][ 80]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.06.11-02.25.02:580][ 80]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.11-02.25.02:580][ 80]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.11-02.25.07:557][264]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.25.09:110][315]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.11-02.25.09:110][315]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.11-02.25.32:519][534]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.25.32:523][534]LogMaterial: Warning: Material /Engine/VREditor/UI/ArrowMaterial.ArrowMaterial needed to have new flag set bUsedWithBeamTrails !
+[2018.06.11-02.25.32:525][534]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2018.06.11-02.25.32:574][534]LogShaderCompilers: Display: Shaders left to compile 59
+[2018.06.11-02.25.32:574][534]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.06.11-02.25.32:574][534]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.11-02.25.38:666][838]LogSavePackage: Save=51.62ms
+[2018.06.11-02.25.38:667][838]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_location16CE662534D3A280C6947F78EF80DDB1B.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_location1.uasset'
+[2018.06.11-02.25.38:673][838]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_location1.uasset
+[2018.06.11-02.25.40:794][965]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.25.43:483][109]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.25.44:598][167]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_location1.P_emitter_initial_location1)
+[2018.06.11-02.25.49:737][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.25.58:899][990]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.26.01:258][990]LogSlate: Window 'Message' being destroyed
+[2018.06.11-02.26.24:990][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.26.26:160][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.26.26:411][454]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.11-02.26.26:411][454]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.11-02.26.26:411][454]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.11-02.26.31:976][454]LogSlate: Window 'Save Asset As' being destroyed
+[2018.06.11-02.26.31:980][454]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2018.06.11-02.26.32:097][454]LogSavePackage: Save=47.27ms
+[2018.06.11-02.26.32:097][454]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_locationteste695163524877D9637864B69B6D63CF9E.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_locationteste.uasset'
+[2018.06.11-02.26.32:102][454]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_locationteste.uasset
+[2018.06.11-02.26.32:134][454]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.26.32:205][454]LogCascade: Quitting Cascade. FXSystem=0x000001905245A020
+[2018.06.11-02.26.49:408][443]LogMaterial: Warning: Material /Engine/VREditor/UI/ArrowMaterial.ArrowMaterial needed to have new flag set bUsedWithParticleSprites !
+[2018.06.11-02.26.49:411][443]LogMaterial: Missing cached shader map for material ArrowMaterial, compiling. 
+[2018.06.11-02.26.50:565][467]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.26.53:028][467]LogSlate: Window 'Message' being destroyed
+[2018.06.11-02.26.53:036][467]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationteste.P_emitter_initial_locationteste)
+[2018.06.11-02.27.01:250][946]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationteste.P_emitter_initial_locationteste)
+[2018.06.11-02.27.04:471][130]LogEditorTransaction: Undo Toggle Enable on Emitter
+[2018.06.11-02.27.04:490][130]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationteste.P_emitter_initial_locationteste)
+[2018.06.11-02.27.05:298][170]LogEditorTransaction: Undo Toggle Enable on Emitter
+[2018.06.11-02.27.05:310][170]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationteste.P_emitter_initial_locationteste)
+[2018.06.11-02.27.11:007][506]LogEditorTransaction: Undo Insert Module
+[2018.06.11-02.27.11:021][506]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationteste.P_emitter_initial_locationteste)
+[2018.06.11-02.27.15:182][738]LogEditorTransaction: Undo Delete Selected Module
+[2018.06.11-02.27.15:199][738]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationteste.P_emitter_initial_locationteste)
+[2018.06.11-02.27.17:877][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.27.18:100][886]LogSavePackage: Save=45.10ms
+[2018.06.11-02.27.18:100][886]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_locationtesteC44306E44AF7DEFEDDE14588C574CA93.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_locationteste.uasset'
+[2018.06.11-02.27.18:105][886]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_locationteste.uasset
+[2018.06.11-02.27.18:740][924]LogShaderCompilers: Display: Shaders left to compile 115
+[2018.06.11-02.27.18:740][924]LogShaderCompilers: Display: Shaders left to compile 105
+[2018.06.11-02.27.18:740][924]LogShaderCompilers: Display: Shaders left to compile 95
+[2018.06.11-02.27.29:980][598]LogParticles: Warning: MaxCount = 2032 for Emitter ParticleSpriteEmitter_16 (/Game/Players/Adena/Poderes/P_emitter_initial_locationteste.P_emitter_initial_locationteste)
+[2018.06.11-02.27.44:955][487]LogCascade: Non-seeded module ParticleModuleAttractorPoint
+[2018.06.11-02.27.44:959][487]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.06.11-02.28.08:875][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.11-02.28.10:747][948]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019094332be0, Size=16
+[2018.06.11-02.28.12:467][948]LogSlate: Window 'Save Content' being destroyed
+[2018.06.11-02.28.12:536][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/LaserPointer/LaserPointerMaterial" FILE="../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset" SILENT=true
+[2018.06.11-02.28.12:609][948]LogSavePackage: Save=45.99ms
+[2018.06.11-02.28.12:610][948]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/LaserPointerMaterial2D3E90B749C5592E8902CB8994D3166F.tmp' to '../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset'
+[2018.06.11-02.28.12:613][948]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/VREditor/LaserPointer/LaserPointerMaterial.uasset
+[2018.06.11-02.28.12:665][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst" FILE="../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset" SILENT=true
+[2018.06.11-02.28.12:759][948]LogSavePackage: Save=63.79ms
+[2018.06.11-02.28.12:759][948]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/TranslucentLaserPointerMaterialIC1620C2F44221F5CBA5457BFC63A79E2.tmp' to '../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset'
+[2018.06.11-02.28.12:764][948]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset
+[2018.06.11-02.28.12:815][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/TransformGizmo/Xray" FILE="../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" SILENT=true
+[2018.06.11-02.28.12:857][948]LogSavePackage: Save=18.48ms
+[2018.06.11-02.28.12:857][948]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/XrayC437D3474982E7B2DBFC53B0E434B3B3.tmp' to '../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset'
+[2018.06.11-02.28.12:861][948]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset
+[2018.06.11-02.30.06:783][948]LogShaderCompilers: Display: Shaders left to compile 85
+[2018.06.11-02.30.06:783][948]LogShaderCompilers: Display: Shaders left to compile 75
+[2018.06.11-02.30.06:783][948]LogShaderCompilers: Display: Shaders left to compile 65
+[2018.06.11-02.30.06:783][948]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.06.11-02.30.06:783][948]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.06.11-02.30.06:783][948]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.11-02.30.06:783][948]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.11-02.30.06:783][948]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.11-02.30.06:783][948]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.11-02.30.06:878][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/VREditor/UI/ArrowMaterial" FILE="../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset" SILENT=true
+[2018.06.11-02.30.06:914][948]LogSavePackage: Save=17.77ms
+[2018.06.11-02.30.06:914][948]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/ArrowMaterial379D452B41A934CB4BCF748916153061.tmp' to '../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset'
+[2018.06.11-02.30.06:918][948]LogSavePackage: Display: Finished SavePackage ../../../Engine/Content/VREditor/UI/ArrowMaterial.uasset
+[2018.06.11-02.30.06:991][948]LogSavePackage: Save=36.98ms
+[2018.06.11-02.30.06:991][948]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_location1A9FB90B341020EDE59C6D9A66CAD1E2F.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_location1.uasset'
+[2018.06.11-02.30.06:994][948]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_location1.uasset
+[2018.06.11-02.30.07:057][948]LogSavePackage: Save=34.52ms
+[2018.06.11-02.30.07:057][948]LogSavePackage: Moving '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/P_emitter_initial_locationtesteE691A53D47147AEB8D10DEAC383F95A2.tmp' to '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_locationteste.uasset'
+[2018.06.11-02.30.07:061][948]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Players/Adena/Poderes/P_emitter_initial_locationteste.uasset
+[2018.06.11-02.46.46:227][116]LogHttp: Warning: 00000190BC82AB00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.11-02.46.46:227][116]LogHttp: Warning: 00000190BC82AB00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1901d1f3fb8 [can pipeline])
+[2018.06.11-02.46.46:227][116]LogHttp: Warning: 00000190BC82AB00: libcurl info message cache 1 (Re-using existing connection! (#33) with host datarouter.ol.epicgames.com)
+[2018.06.11-02.46.46:227][116]LogHttp: Warning: 00000190BC82AB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.205.225.225) port 443 (#33))
+[2018.06.11-02.46.46:227][116]LogHttp: Warning: 00000190BC82AB00: libcurl info message cache 3 (upload completely sent off: 721 out of 721 bytes)
+[2018.06.11-02.46.46:227][116]LogHttp: Warning: 00000190BC82AB00: libcurl info message cache 4 (SSL read: error:00000000:lib(0):func(0):reason(0), errno 10054)
+[2018.06.11-02.46.46:227][116]LogHttp: Warning: 00000190BC82AB00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2018.06.11-02.46.46:227][116]LogHttp: Warning: 00000190BC82AB00: libcurl info message cache 6 (Closing connection 33)
+[2018.06.11-02.46.46:227][116]LogHttp: Warning: 00000190BC82AB00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B52C3066A-407C-1DBD-8C56-59BAB69744ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=f551754c44595b4885b457b232534baf%7Ca5a0b262ca0446e7844f7f6a7f800465%7Cc9e218c2-a5bb-49bb-9bdb-cc02d716ce61&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2018.06.11-02.46.46:228][116]LogHttp: Warning: 00000190BC82AB00: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.11-02.46.46:228][116]LogHttp: Warning: 00000190BC82AB00: libcurl info message cache 9 (Closing connection 34)
+[2018.06.11-02.48.46:261][344]LogHttp: Warning: 00000190BC829C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.11-02.48.46:261][344]LogHttp: Warning: 00000190BC829C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.11-02.48.46:261][344]LogHttp: Warning: 00000190BC829C00: libcurl info message cache 1 (Closing connection 35)
+[2018.06.11-02.50.46:309][570]LogHttp: Warning: 00000190BC829A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.11-02.50.46:309][570]LogHttp: Warning: 00000190BC829A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.11-02.50.46:309][570]LogHttp: Warning: 00000190BC829A80: libcurl info message cache 1 (Closing connection 36)
+[2018.06.11-02.52.46:382][796]LogHttp: Warning: 00000190BC829D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.06.11-02.52.46:382][796]LogHttp: Warning: 00000190BC829D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.06.11-02.52.46:382][796]LogHttp: Warning: 00000190BC829D80: libcurl info message cache 1 (Closing connection 37)
+[2018.06.11-14.27.52:752][837]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.11-14.27.52:829][837]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.11-14.27.52:895][837]LogCascade: Quitting Cascade. FXSystem=0x0000019074008360
+[2018.06.11-14.27.52:978][837]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2018.06.11-14.27.53:019][837]LogCascade: Quitting Cascade. FXSystem=0x00000190819BB9C0
+[2018.06.11-14.27.53:131][837]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2018.06.11-14.27.53:171][837]LogSlate: Window 'BehemothFight - Unreal Editor' being destroyed
+[2018.06.11-14.27.53:473][838]Cmd: QUIT_EDITOR
+[2018.06.11-14.27.53:630][838]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.11-14.27.53:676][838]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.11-14.27.53:677][838]LogExit: Preparing to exit.
+[2018.06.11-14.27.54:150][838]LogDirectoryWatcher: A directory notification for 'C:/Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/' was aborted.
+[2018.06.11-14.27.54:292][838]LogExit: Editor shut down
+[2018.06.11-14.27.54:307][838]LogExit: Transaction tracking system shut down
+[2018.06.11-14.27.54:311][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001905228bd80, Size=144
+[2018.06.11-14.27.54:311][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001905228d3a0, Size=72
+[2018.06.11-14.27.54:311][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001905224fd60, Size=224
+[2018.06.11-14.27.54:311][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190522c25c0, Size=440
+[2018.06.11-14.27.54:311][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001905224fba0, Size=224
+[2018.06.11-14.27.54:311][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019081479980, Size=864
+[2018.06.11-14.27.54:311][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190521d4100, Size=1088
+[2018.06.11-14.27.54:322][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019054d33b20, Size=4
+[2018.06.11-14.27.54:322][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019054d33b18, Size=4
+[2018.06.11-14.27.54:339][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000190943338f0, Size=16
+[2018.06.11-14.27.54:339][838]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000019082a4c800, Size=904
+[2018.06.11-14.27.54:678][838]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.11-14.27.54:678][838]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/' was aborted.
+[2018.06.11-14.27.54:678][838]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.11-14.27.54:678][838]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.11-14.27.54:678][838]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.11-14.27.54:679][838]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.11-14.27.54:679][838]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.06.11-14.27.54:679][838]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.06.11-14.27.55:479][838]LogExit: Object subsystem successfully closed.
+[2018.06.11-14.27.55:580][838]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.11-14.27.55:598][838]LogD3D11RHI: Shutdown
+[2018.06.11-14.27.55:598][838]LogD3D11RHI: CleanupD3DDevice
+[2018.06.11-14.27.55:602][838]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.11-14.27.56:171][838]LogModuleManager: Shutting down and abandoning module DistCurveEditor (582)
+[2018.06.11-14.27.56:171][838]LogModuleManager: Shutting down and abandoning module Cascade (580)
+[2018.06.11-14.27.56:171][838]LogModuleManager: Shutting down and abandoning module BlueprintGraph (578)
+[2018.06.11-14.27.56:171][838]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (576)
+[2018.06.11-14.27.56:171][838]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.06.11-14.27.56:172][838]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.06.11-14.27.56:172][838]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.06.11-14.27.56:199][838]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.11-14.27.56:202][838]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.06.11-14.27.56:202][838]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.06.11-14.27.56:202][838]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.06.11-14.27.56:202][838]LogDirectoryWatcher: A directory notification for 'C:/Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Collections/' was aborted.
+[2018.06.11-14.27.56:203][838]LogDirectoryWatcher: A directory notification for 'C:/Users/Bruno/Documents/Unreal Projects/BehemothFight/Content/Developers/Bruno/Collections/' was aborted.
+[2018.06.11-14.27.56:203][838]LogDirectoryWatcher: A directory notification for 'C:/Users/Bruno/Documents/Unreal Projects/BehemothFight/Saved/Collections/' was aborted.
+[2018.06.11-14.27.56:204][838]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.06.11-14.27.56:204][838]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.06.11-14.27.56:204][838]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.06.11-14.27.56:223][838]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.06.11-14.27.56:223][838]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.06.11-14.27.56:223][838]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.06.11-14.27.56:223][838]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.06.11-14.27.56:223][838]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.06.11-14.27.56:223][838]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.06.11-14.27.56:223][838]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.06.11-14.27.56:224][838]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.06.11-14.27.56:224][838]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.06.11-14.27.56:224][838]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.06.11-14.27.56:224][838]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.06.11-14.27.56:224][838]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.06.11-14.27.56:224][838]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.06.11-14.27.56:224][838]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.06.11-14.27.56:246][838]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.06.11-14.27.56:246][838]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.06.11-14.27.56:393][838]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.06.11-14.27.56:393][838]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.06.11-14.27.56:393][838]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.06.11-14.27.56:393][838]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.06.11-14.27.56:394][838]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.06.11-14.27.56:395][838]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.06.11-14.27.56:457][838]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.06.11-14.27.56:457][838]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.06.11-14.27.56:458][838]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.06.11-14.27.56:490][838]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.06.11-14.27.56:490][838]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.06.11-14.27.56:490][838]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.06.11-14.27.56:490][838]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.06.11-14.27.56:771][838]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.06.11-14.27.56:771][838]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.06.11-14.27.56:771][838]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.06.11-14.27.56:771][838]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.06.11-14.27.56:771][838]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.06.11-14.27.56:784][838]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.06.11-14.27.56:797][838]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.06.11-14.27.56:797][838]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.06.11-14.27.56:797][838]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.06.11-14.27.56:797][838]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.06.11-14.27.56:797][838]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.06.11-14.27.56:797][838]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.06.11-14.27.56:797][838]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.06.11-14.27.56:797][838]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.06.11-14.27.56:798][838]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.06.11-14.27.56:798][838]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.06.11-14.27.56:816][838]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.06.11-14.27.56:822][838]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.06.11-14.27.56:822][838]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.06.11-14.27.56:830][838]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.06.11-14.27.56:830][838]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.06.11-14.27.56:883][838]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.06.11-14.27.56:883][838]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.06.11-14.27.56:928][838]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.06.11-14.27.56:959][838]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.06.11-14.27.56:959][838]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.06.11-14.27.56:959][838]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.06.11-14.27.56:959][838]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.06.11-14.27.56:968][838]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.06.11-14.27.56:968][838]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.06.11-14.27.56:968][838]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.06.11-14.27.56:987][838]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.06.11-14.27.56:987][838]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.06.11-14.27.56:992][838]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.06.11-14.27.56:992][838]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.06.11-14.27.56:997][838]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.06.11-14.27.56:997][838]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.06.11-14.27.57:001][838]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.06.11-14.27.57:007][838]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.06.11-14.27.57:007][838]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.06.11-14.27.57:014][838]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.06.11-14.27.57:014][838]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.06.11-14.27.57:014][838]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.06.11-14.27.57:014][838]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.06.11-14.27.57:014][838]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.06.11-14.27.57:014][838]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.06.11-14.27.57:014][838]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.06.11-14.27.57:014][838]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.06.11-14.27.57:014][838]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.06.11-14.27.57:019][838]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.06.11-14.27.57:020][838]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.06.11-14.27.57:020][838]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.06.11-14.27.57:098][838]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.06.11-14.27.57:107][838]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.06.11-14.27.57:107][838]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.06.11-14.27.57:107][838]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.06.11-14.27.57:107][838]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.06.11-14.27.57:114][838]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.06.11-14.27.57:115][838]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.06.11-14.27.57:125][838]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.06.11-14.27.57:125][838]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.06.11-14.27.57:125][838]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.06.11-14.27.57:125][838]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.06.11-14.27.57:125][838]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.06.11-14.27.57:125][838]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.06.11-14.27.57:126][838]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.06.11-14.27.57:126][838]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.06.11-14.27.57:126][838]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.06.11-14.27.57:226][838]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.06.11-14.27.57:326][838]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.11-14.27.57:326][838]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.11-14.27.57:326][838]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.11-14.27.57:326][838]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.11-14.27.57:326][838]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.11-14.27.57:327][838]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.11-14.27.57:329][838]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.11-14.27.57:330][838]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.11-14.27.57:330][838]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.11-14.27.57:330][838]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.11-14.27.57:332][838]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.11-14.27.57:337][838]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.11-14.27.57:347][838]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.11-14.27.57:347][838]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.11-14.27.57:347][838]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.11-14.27.57:784][838]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.11-14.27.57:784][838]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.11-14.27.57:785][838]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.11-14.27.57:785][838]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.06.11-14.27.57:793][838]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.06.11-14.27.57:793][838]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.06.11-14.27.57:793][838]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.06.11-14.27.57:845][838]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.06.11-14.27.57:845][838]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.11-14.27.57:845][838]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.11-14.27.57:845][838]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.11-14.27.57:858][838]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.11-14.27.57:858][838]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.11-14.27.57:858][838]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.11-14.27.57:874][838]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.11-14.27.57:874][838]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.11-14.27.57:875][838]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.11-14.27.57:875][838]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.11-14.27.57:875][838]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.11-14.27.57:888][838]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.11-14.27.57:899][838]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.11-14.27.57:899][838]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.11-14.27.57:939][838]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.11-14.27.57:939][838]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.11-14.27.57:945][838]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.11-14.27.57:945][838]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.11-14.27.57:945][838]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.11-14.27.57:945][838]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.11-14.27.57:945][838]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.11-14.27.57:946][838]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.11-14.27.57:946][838]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.11-14.27.57:946][838]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.11-14.27.57:946][838]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.11-14.27.57:946][838]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.11-14.27.57:951][838]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.11-14.27.57:951][838]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.11-14.27.57:951][838]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.11-14.27.57:962][838]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.11-14.27.57:966][838]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.11-14.27.57:966][838]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.11-14.27.57:969][838]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.11-14.27.57:976][838]LogDerivedDataCache: Shutdown
+[2018.06.11-14.27.57:976][838]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.11-14.27.57:976][838]LogXGEController: Cleaning working directory: C:/Users/Bruno/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.11-14.27.57:977][838]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.11-14.27.57:977][838]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.11-14.27.57:977][838]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.11-14.27.57:985][838]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.11-14.27.57:995][838]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.11-14.27.57:995][838]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.11-14.27.57:996][838]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.11-14.27.57:996][838]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.11-14.27.57:996][838]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.11-14.27.57:996][838]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.11-14.27.57:996][838]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.11-14.27.57:996][838]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.11-14.27.57:996][838]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.11-14.27.57:996][838]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.11-14.27.57:996][838]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.11-14.27.57:996][838]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.11-14.27.57:997][838]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.11-14.27.57:998][838]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.11-14.27.57:999][838]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.06.11-14.27.57:999][838]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.06.11-14.27.57:999][838]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.11-14.27.57:999][838]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.11-14.27.57:999][838]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.11-14.27.57:999][838]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.11-14.27.57:999][838]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.11-14.27.57:999][838]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.11-14.27.58:004][838]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.11-14.27.58:005][838]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.06.11-14.27.58:005][838]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B52C3066A-407C-1DBD-8C56-59BAB69744ED%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=f551754c44595b4885b457b232534baf%7Ca5a0b262ca0446e7844f7f6a7f800465%7Cc9e218c2-a5bb-49bb-9bdb-cc02d716ce61&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.11-14.27.58:032][838]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.11-14.27.58:035][838]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.11-14.27.58:035][838]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.11-14.27.58:036][838]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.11-14.27.58:043][838]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.11-14.27.58:061][838]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.11-14.27.58:061][838]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.11-14.27.58:061][838]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.11-14.27.58:081][838]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.11-14.27.58:100][838]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.11-14.27.58:100][838]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.11-14.27.58:100][838]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.11-14.27.58:100][838]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.11-14.27.58:100][838]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.11-14.27.58:100][838]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.11-14.27.58:100][838]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.11-14.27.58:101][838]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.11-14.27.58:101][838]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.11-14.27.58:101][838]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.11-14.27.58:122][838]LogExit: Exiting.
+[2018.06.11-14.27.58:186][838]Log file closed, 06/11/18 11:27:58
